@@ -2,7 +2,7 @@ var animal = 'cat'
 
 //myAnimal === dog
 function myAnimal() {
-  var animal = dog;
+  var animal = 'dog';
   return animal
 }
 
