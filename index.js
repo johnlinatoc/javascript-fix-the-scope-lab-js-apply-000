@@ -1,9 +1,11 @@
 var animal = 'dog'
 
+//myAnimal === dog
 function myAnimal() {
   return animal
 }
 
+//yourAnimal === cat
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
