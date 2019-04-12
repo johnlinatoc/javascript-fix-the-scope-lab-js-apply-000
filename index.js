@@ -1,7 +1,8 @@
-var animal = 'dog'
+var animal = 'cat'
 
 //myAnimal === dog
 function myAnimal() {
+  animal = dog;
   return animal
 }
 
